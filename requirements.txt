@@ -188,9 +188,9 @@ msgpack==1.0.7 ; python_version >= "3.8" and python_version < "4.0" \
 packaging==23.2 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:048fb0e9405036518eaaf48a55953c750c11e1a1b68e0dd1a9d62ed0c092cfc5 \
     --hash=sha256:8c491190033a9af7e1d931d0b5dacc2ef47509b34dd0de67ed209b5203fc88c7
-pdm==2.10.1 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:2b2853b83830ed110a8a1eb3feb62cf4e55165de4809a5278bc9453c788898d3 \
-    --hash=sha256:d166531c659fc4905933546544dd2e16cf648c2ba6d898c82126ad6a42117a81
+pdm==2.10.3 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:46dafc8a4fe268c46479876e52c6967f7a9aa385e1e574e64248670a37b358ff \
+    --hash=sha256:9caad0bc4a2ee8de02e39c673a142b47c170091908a584ed2024854be08cdf13
 platformdirs==4.0.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:118c954d7e949b35437270383a3f2531e99dd93cf7ce4dc8340d3356d30f173b \
     --hash=sha256:cb633b2bcf10c51af60beb0ab06d2f1d69064b43abf4c185ca6b28865f3f9731
