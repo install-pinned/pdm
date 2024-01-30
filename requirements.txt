@@ -233,9 +233,9 @@ typing-extensions==4.9.0 ; python_version >= "3.8" and python_version < "3.9" \
 unearth==0.14.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:a2b937ca22198043f5360192bce38708f11ddc5d4cdea973ee38583219b97d5d \
     --hash=sha256:f3cddfb94ac0f865fbcf964231556ef7183010379c00b01205517a50c78a186d
-urllib3==2.1.0 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:55901e917a5896a349ff771be919f8bd99aff50b79fe58fec595eb37bbc56bb3 \
-    --hash=sha256:df7aa8afb0148fa78488e7899b2c59b5f4ffcfa82e6c54ccb9dd37c1d7b52d54
+urllib3==2.2.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:051d961ad0c62a94e50ecf1af379c3aba230c66c710493493560c0c223c49f20 \
+    --hash=sha256:ce3711610ddce217e6d113a2732fafad960a03fd0318c91faa79481e35c11224
 virtualenv==20.25.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:4238949c5ffe6876362d9c0180fc6c3a824a7b12b80604eeb8085f2ed7460de3 \
     --hash=sha256:bf51c0d9c7dd63ea8e44086fa1e4fb1093a31e963b86959257378aef020e1f1b
