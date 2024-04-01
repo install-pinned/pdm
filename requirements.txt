@@ -168,9 +168,9 @@ msgpack==1.0.8 ; python_version >= "3.8" and python_version < "4.0" \
 packaging==24.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:2ddfb553fdf02fb784c234c7ba6ccc288296ceabec964ad2eae3777778130bc5 \
     --hash=sha256:eb82c5e3e56209074766e6885bb04b8c38a0c015d0a30036ebe7ece34c9989e9
-pbs-installer[install]==2024.3.27 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:30a368d14710a5e38a57401006b4c1061f030ed06d42d69c8f5e8dd20ee25d58 \
-    --hash=sha256:6299ca01a91cc87033fa4176106a977da16e2484b4094ef4bacb576f822c0392
+pbs-installer[install]==2024.4.1 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:1f2aca82511fb9e1973b14708d7386780a8c56d111b680ae5786b3f430fa918a \
+    --hash=sha256:762e1b5b95a48389051205c48fcd4635e946b48ab3252d2c79a8a77dc87e91ff
 pdm==2.13.2 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:27072cbc1d9f7db1d7698827991dbd21c16cd73e2c68dbd796421c17bf45ca33 \
     --hash=sha256:e282bf1caf0a083fc0fb5e89ad6f79d7c579ff52c7bb58ee8587ea3d5bb9e14a
