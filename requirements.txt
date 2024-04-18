@@ -72,9 +72,9 @@ exceptiongroup==1.2.0 ; python_version >= "3.8" and python_version < "3.11" \
 filelock==3.13.4 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:404e5e9253aa60ad457cae1be07c0f0ca90a63931200a47d9b6a6af84fd7b45f \
     --hash=sha256:d13f466618bfde72bd2c18255e269f72542c6e70e7bac83a0232d6b1cc5c8cf4
-findpython==0.6.0 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:036a7841b88e2f372433a589b1f09219519737d2989eb5f5370d70afbcf84765 \
-    --hash=sha256:08a2059140dce0d2b48509bad52ac9601f87322c650cf5c1893ed3ede89316eb
+findpython==0.6.1 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:1fb4d709205de185b0561900267dfff64a841c910fe28d6038b2394ff925a81a \
+    --hash=sha256:56e52b409a92bcbd495cf981c85acf137f3b3e51cc769b46eba219bb1ab7533c
 h11==0.14.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:8f19fbbe99e72420ff35c00b27a34cb9937e902a8b810e2c88300c6f0a3b699d \
     --hash=sha256:e3fe4ac4b851c468cc8363d500db52c2ead036020723024a109d37346efaa761
@@ -216,9 +216,9 @@ truststore==0.8.0 ; python_version >= "3.10" and python_version < "4.0" \
 typing-extensions==4.11.0 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:83f085bd5ca59c80295fc2a82ab5dac679cbe02b9f33f7d83af68e241bea51b0 \
     --hash=sha256:c1f94d72897edaf4ce775bb7558d5b79d8126906a14ea5ed1635921406c0387a
-unearth==0.15.1 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:863deb3339c0d65a5be0d0ad2c67d46d5f574a798e74ef0552bf11d298a30abb \
-    --hash=sha256:e76dc2e3ce64fe0888fca4e0f60607e7be42cd033e1b8e6a6e49d8cf3c20c874
+unearth==0.15.2 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:381f3e6969db0b28d9fc2fbfb216860579bf341bd695472f2c62e2bcce9e6d3d \
+    --hash=sha256:e715be44174f47111b9e2b723a46efe21bfbe5f3b5f55c207a2c4ebc11b1ef8b
 virtualenv==20.25.3 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:7bb554bbdfeaacc3349fa614ea5bff6ac300fc7c335e9facf3a3bcfc703f45be \
     --hash=sha256:8aac4332f2ea6ef519c648d0bc48a5b1d324994753519919bddbb1aff25a104e
