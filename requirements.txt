@@ -7,9 +7,9 @@ blinker==1.8.2 ; python_version >= "3.8" and python_version < "4.0" \
 certifi==2024.6.2 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:3cd43f1c6fa7dedc5899d69d3ad0398fd018ad1a17fba83ddaf78aa46c747516 \
     --hash=sha256:ddc6c8ce995e6987e7faf5e3f1b02b302836a0e5d98ece18392cb1a36c72ad56
-dep-logic==0.2.0 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:af439c2acaf7522dd321a71f30e0c4fd59b7553eb99967af07d53320902cde39 \
-    --hash=sha256:cff502b515aff2d413d19d6afc70174fc67da19e821be4a9b68460ccee2514c9
+dep-logic==0.3.0 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:060be013ac8a26a412bb2a6976929ee2d36f261bf4fe1a200150849baa55fb77 \
+    --hash=sha256:d41c5df231b1ef1464b0d30683af3e349afb70d0c8e87d9e1338372359f8b4cd
 distlib==0.3.8 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:034db59a0b96f8ca18035f36290806a9a6e6bd9d1ff91e45a7f172eb17e51784 \
     --hash=sha256:1530ea13e350031b6312d8580ddb6b27a104275a31106523b8f123787f494f64
