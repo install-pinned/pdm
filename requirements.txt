@@ -4,9 +4,9 @@ anyio==4.4.0 ; python_version >= "3.8" and python_version < "4.0" \
 blinker==1.8.2 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:1779309f71bf239144b9399d06ae925637cf6634cf6bd131104184531bf67c01 \
     --hash=sha256:8f77b09d3bf7c795e969e9486f39c2c5e9c39d4ee07424be2bc594ece9642d83
-certifi==2024.7.4 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:5a1e7645bc0ec61a09e26c36f6106dd4cf40c6db3a1fb6352b0244e7fb057c7b \
-    --hash=sha256:c198e21b1289c2ab85ee4e67bb4b4ef3ead0892059901a8d5b622f24a1101e90
+certifi==2024.8.30 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:922820b53db7a7257ffbda3f597266d435245903d80737e34f8a45ff3e3230d8 \
+    --hash=sha256:bec941d2aa8195e248a60b31ff9f0558284cf01a52591ceda73ea9afffd69fd9
 dep-logic==0.4.4 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:3f47301f9a8230443d3df7d7f9bdc33d35d8591a14112d36f221b0e33810d3ae \
     --hash=sha256:e716afdda9351107c54ef4f6fd3fd29568f53529afb333b4958183b9d306e44a
