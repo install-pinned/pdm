@@ -7,9 +7,9 @@ blinker==1.8.2 ; python_version >= "3.8" and python_version < "4.0" \
 certifi==2024.8.30 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:922820b53db7a7257ffbda3f597266d435245903d80737e34f8a45ff3e3230d8 \
     --hash=sha256:bec941d2aa8195e248a60b31ff9f0558284cf01a52591ceda73ea9afffd69fd9
-dep-logic==0.4.8 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:0d436d493bbe6bec45588d8c432e318bd388a67a0965f7b527b2721f5c70b01b \
-    --hash=sha256:6be51b8a51893e67961a5c10ed7b8dd95fffe3ee42982fbb99f68218221a6ad2
+dep-logic==0.4.9 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:06faa33814e5ff881922f644284a608d7da7946462760f710217d829ae864a0e \
+    --hash=sha256:5d455ea2a3da4fea2be6186d886905c57eeeebe3ea7fa967f599cb8e0f01d5c9
 distlib==0.3.8 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:034db59a0b96f8ca18035f36290806a9a6e6bd9d1ff91e45a7f172eb17e51784 \
     --hash=sha256:1530ea13e350031b6312d8580ddb6b27a104275a31106523b8f123787f494f64
@@ -126,9 +126,9 @@ packaging==24.1 ; python_version >= "3.8" and python_version < "4.0" \
 pbs-installer==2024.9.9 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:0c5846d3327cb09ea2bcbbc5521f5f45fd4f0021e78e57ca670e9d251085830b \
     --hash=sha256:bed162d05ef71c53a0e5e5c6349bab1b07a3d0e5af1800d619a4414a1fda309a
-pdm==2.18.2 ; python_version >= "3.8" and python_version < "4.0" \
-    --hash=sha256:6d93a18d52edca056fafed7b262fe48ddc61984dabf73eb9365ad61a90caebb6 \
-    --hash=sha256:cb794c3d7c4d57494b039662932ac758babafb047e3c49cb18fa7bff30687262
+pdm==2.19.1 ; python_version >= "3.8" and python_version < "4.0" \
+    --hash=sha256:3b63ef645aaa4f4010ed9390550bda5cdfa7a9e70bc7780a555c8496cedfccc2 \
+    --hash=sha256:7fe235a9cb27b7ec17b762dc85bc9ae71e0776e4b7a8b6f64203f24bb915aa2c
 platformdirs==4.3.6 ; python_version >= "3.8" and python_version < "4.0" \
     --hash=sha256:357fb2acbc885b0419afd3ce3ed34564c13c9b95c89360cd9563f73aa5e2b907 \
     --hash=sha256:73e575e1408ab8103900836b97580d5307456908a03e92031bab39e4554cc3fb
