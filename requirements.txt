@@ -123,9 +123,9 @@ packaging==24.2 ; python_version >= "3.9" and python_version < "4.0" \
 pbs-installer==2024.10.16 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:043f157ae0939b403b98b410f92bcc1d52062c8ced46e52ff0fdb45d37320a25 \
     --hash=sha256:d547d9a5bb564791102d138346bff609659c16acc0147fd701755a2eae8f2050
-pdm==2.21.0 ; python_version >= "3.9" and python_version < "4.0" \
-    --hash=sha256:9c928d6db62d104ab86318fe09aaf9bdfc6f616176af407e4df00f59e001930f \
-    --hash=sha256:c01a50622072a9529bd9c7f8c1ce8d050b7e340d25d051233bce9fcdd8449614
+pdm==2.22.0 ; python_version >= "3.9" and python_version < "4.0" \
+    --hash=sha256:61b4f0f8238bf99ba59ffae3db524604417379df917e081d61b1e257bfc20e43 \
+    --hash=sha256:bb888eeaea94afe9c9cbbe552ab01c6cc21e938a7b0ed07db491e7aaa2d8f04e
 platformdirs==4.3.6 ; python_version >= "3.9" and python_version < "4.0" \
     --hash=sha256:357fb2acbc885b0419afd3ce3ed34564c13c9b95c89360cd9563f73aa5e2b907 \
     --hash=sha256:73e575e1408ab8103900836b97580d5307456908a03e92031bab39e4554cc3fb
