@@ -200,9 +200,9 @@ typing-extensions==4.12.2 \
 unearth==0.17.2 \
     --hash=sha256:0b8a2afd3476f1ab6155fc579501ac47fffe43547d88a70e5a5b76a7fe6caa2c \
     --hash=sha256:4d21af1238a583835fca156322f7225382e718cdcc42d6278050a88e605c4ad5
-virtualenv==20.28.0 \
-    --hash=sha256:23eae1b4516ecd610481eda647f3a7c09aea295055337331bb4e6892ecce47b0 \
-    --hash=sha256:2c9c3262bb8e7b87ea801d715fae4495e6032450c71d2309be9550e7364049aa
+virtualenv==20.28.1 \
+    --hash=sha256:412773c85d4dab0409b83ec36f7a6499e72eaf08c80e81e9576bca61831c71cb \
+    --hash=sha256:5d34ab240fdb5d21549b76f9e8ff3af28252f5499fb6d6f031adac4e5a8c5329
 zipp==3.20.2 ; python_full_version < '3.10' \
     --hash=sha256:a817ac80d6cf4b23bf7f2828b7cabf326f15a001bea8b1f9b49631780ba28350 \
     --hash=sha256:bc9eb26f4506fda01b81bcde0ca78103b6e62f991b381fec825435c836edbc29
