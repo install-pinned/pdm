@@ -122,9 +122,9 @@ msgpack==1.1.0 \
 packaging==24.2 \
     --hash=sha256:09abb1bccd265c01f4a3aa3f7a7db064b36514d2cba19a2f694fe6150451a759 \
     --hash=sha256:c228a6dc5e932d346bc5739379109d49e8853dd8223571c7c5b55260edc0b97f
-pbs-installer==2024.12.19 \
-    --hash=sha256:692393a8c7ed1879833eb6fba8e5de45f10a10a1fe6bb12e78c1e4f7bbdb4fcf \
-    --hash=sha256:7b0f3a3c9a08516ead1c539e51c01c041971cd156047d2e8fedd8a9809eef2a4
+pbs-installer==2025.1.6 \
+    --hash=sha256:0eb974ed142298f0dcc3adff5938b49fb219c4f81dbeae9fe609f7374a0cbcc8 \
+    --hash=sha256:69cc3fab5bb36eac678af9228bdd288a25610bc7aaee7b3f3b0c31562fe206d4
 pdm==2.20.1 \
     --hash=sha256:27904e5a703e6ce6598a2a92a6e4c95b2099746b1aba9402154978afce4ed6a7 \
     --hash=sha256:5348e9d33de381f998904a63ab18efdd6d1cf6377d45572e8b996d58dfc5b996
