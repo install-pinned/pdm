@@ -194,9 +194,9 @@ tomlkit==0.13.2 \
 truststore==0.10.1 ; python_full_version >= '3.10' \
     --hash=sha256:b64e6025a409a43ebdd2807b0c41c8bff49ea7ae6550b5087ac6df6619352d4c \
     --hash=sha256:eda021616b59021812e800fa0a071e51b266721bef3ce092db8a699e21c63539
-typing-extensions==4.13.1 \
-    --hash=sha256:4b6cf02909eb5495cfbc3f6e8fd49217e6cc7944e145cdda8caa3734777f9e69 \
-    --hash=sha256:98795af00fb9640edec5b8e31fc647597b4691f099ad75f469a2616be1a76dff
+typing-extensions==4.13.2 \
+    --hash=sha256:a439e7c04b49fec3e5d3e2beaa21755cadbbdc391694e28ccdd36ca4a1408f8c \
+    --hash=sha256:e6c81219bd689f51865d9e372991c540bda33a0379d5573cddb9a3a23f7caaef
 unearth==0.17.5 \
     --hash=sha256:9963e66b14f0484644c9b45b517e530befb2de6a8da4b06a9a38bed2d086dfe6 \
     --hash=sha256:a19e1c02e64b40518d088079c7416fc41b45a648b81a4128aac02597234ee6ba
