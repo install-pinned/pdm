@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install pdm from PyPI
-        uses: install-pinned/pdm@8f99710cd076b9e6b42943110b83603a79b4add7  # 2.24.2
+        uses: install-pinned/pdm@49c6d5e8a50a4ec5823020a5769dbfd6aceda7a9  # 2.24.2
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
