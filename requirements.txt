@@ -132,9 +132,9 @@ pygments==2.19.2 \
 pyproject-hooks==1.2.0 \
     --hash=sha256:1e859bd5c40fae9448642dd871adf459e5e2084186e8d2c2a79a824c970da1f8 \
     --hash=sha256:9e5c6bfa8dcc30091c74b0cf803c81fdd29d94f01992a7707bc97babb1141913
-python-discovery==1.2.0 ; python_full_version < '3.10' \
-    --hash=sha256:1e108f1bbe2ed0ef089823d28805d5ad32be8e734b86a5f212bf89b71c266e4a \
-    --hash=sha256:7d33e350704818b09e3da2bd419d37e21e7c30db6e0977bb438916e06b41b5b1
+python-discovery==1.2.1 ; python_full_version < '3.10' \
+    --hash=sha256:180c4d114bff1c32462537eac5d6a332b768242b76b69c0259c7d14b1b680c9e \
+    --hash=sha256:b6a957b24c1cd79252484d3566d1b49527581d46e789aaf43181005e56201502
 python-dotenv==1.0.1 \
     --hash=sha256:e324ee90a023d808f1959c46bcbc04446a10ced277783dc6ee09987c37ec10ca \
     --hash=sha256:f7b63ef50f1b690dddf550d03497b66d609393b40b564ed0d674909a68ebf16a
