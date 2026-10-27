@@ -157,9 +157,9 @@ pygments==2.21.0 \
 pyproject-hooks==1.3.3 \
     --hash=sha256:5fc53fdac9f7bd63fbcdc868fb5f90b4784d78a53a3d3388cd738b807441a20b \
     --hash=sha256:defda19b854fa0d3bd4f76ea4ddcba8abd7dcfcdd585a6690ade050744fc5f43
-python-discovery==1.6.5 \
-    --hash=sha256:b531f0f90c4d6ec22f1f8e78996980048bd7d494b7d366b0cf98e39b293565e0 \
-    --hash=sha256:f9420b2107a429ec9912bd10039135fc9bb8f15e99a00e614533977529f56bb3
+python-discovery==1.6.6 \
+    --hash=sha256:95e644ce8625c62dc195a603da9f8138ca5a35048224911b2cf7b3028025527a \
+    --hash=sha256:d687024fec55c489e7a465c7f5644300a4d9dbf7727a556a85660536ee922933
 python-dotenv==1.2.4 \
     --hash=sha256:42269a8a5b3fd54ffa6f3d84b18abed50064717576b4ecf03dc4a55d8aa04fdc \
     --hash=sha256:f0d53e69935a851c0dcc78f3ab7aaccd8cabef0b92382b576b824212902873c0
